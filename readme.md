@@ -1,25 +1,25 @@
 
-                MMMMMMMMMM              
-             MMM     ZZ   ZZMM          
-           MM                 M         
-        MMZ          ZZZZZ    ZMM       
-     MMM  Z         ZZZ   ZZ   MM       
-   MM   ZZ   +++++  Z  ZZ ZZ   ZZMM     Voice of helix
-   MM   ZZ+         Z  ZZZ     ZZMM     
-   MM   MM   +++++  Z            MM         https://github.com/Scraphead/VoiceOfHelix
-   MM   MM ++        ZZ            M    
-   MM   MM+         ZMM            M    
-   MM     Z    ZZZ     MM          M    
-   MM+    M  ZZ   ZZZZZMM        ++M    
-   MM ++   MM  ZZZZZZ         +    M    
-     M  ++ MMZZZZZ          ++     M    
-     M    +              +++   MMMM     
-      MM  +            ++     M         
-      MM   ++        ++       M         
-        MM   +++++++      MMMM          
-          M              M              
-           MM     MMMMMMM               
-             MMMMM                      
+                     MMMMMMMMMM
+                  MMM     ZZ   ZZMM
+                MM                 M
+             MMZ          ZZZZZ    ZMM
+          MMM  Z         ZZZ   ZZ   MM
+        MM   ZZ   +++++  Z  ZZ ZZ   ZZMM     Voice of helix
+        MM   ZZ+         Z  ZZZ     ZZMM
+        MM   MM   +++++  Z            MM         https://github.com/Scraphead/VoiceOfHelix
+        MM   MM ++        ZZ            M
+        MM   MM+         ZMM            M
+        MM     Z    ZZZ     MM          M
+        MM+    M  ZZ   ZZZZZMM        ++M
+        MM ++   MM  ZZZZZZ         +    M
+          M  ++ MMZZZZZ          ++     M
+          M    +              +++   MMMM
+           MM  +            ++     M
+           MM   ++        ++       M
+             MM   +++++++      MMMM
+               M              M
+                MM     MMMMMMM
+                  MMMMM
 
                                         
 Voice of helix reads the chatlog from http://www.twitch.tv/twitchplayspokemon and display command given over time.
